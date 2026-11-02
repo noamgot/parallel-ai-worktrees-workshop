@@ -1,0 +1,6 @@
+{"severity":"INFO","component":"api","message":"Synthetic request accepted"}
+{"severity":"ERROR","component":"worker","message":"Synthetic job rejected"}
+{"severity":"ERROR","component":"api","message":"Synthetic request rejected"}
+{"severity":"WARNING","component":"cache","message":"Synthetic cache miss"}
+{"severity":"ERROR","component":"worker","message":"Synthetic retry rejected"}
+{"severity":"DEBUG","component":"worker","message":"Synthetic trace"}
