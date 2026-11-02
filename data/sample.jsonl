@@ -1,0 +1,15 @@
+{"severity":"INFO","component":"api","message":"Synthetic request accepted","request_id":"demo-001"}
+{"severity":"ERROR","component":"worker","message":"Synthetic job rejected"}
+{"severity":"ERROR","component":"api","message":"Synthetic request rejected"}
+{"severity":"WARNING","component":"cache","message":"Synthetic cache miss"}
+{"severity":"ERROR","component":"worker","message":"Synthetic retry rejected"}
+{"severity":"DEBUG","component":"worker","message":"Synthetic trace"}
+{"severity":"ERROR","component":"api","message":"Synthetic timeout rejected"}
+{"severity":"INFO","component":"worker","message":"Synthetic job accepted"}
+{"severity":"WARNING","component":"api","message":"Synthetic slow request"}
+{"severity":"INFO","component":"cache","message":"Synthetic cache warmed"}
+{"severity":"CRITICAL","component":"worker","message":"Synthetic queue unavailable"}
+{"severity":"ERROR","component":"API","message":"Synthetic Request rejected"}
+{"severity":"DEBUG","component":"cache","message":"synthetic cache trace"}
+{"severity":"INFO","component":"scheduler","message":"Synthetic job scheduled"}
+{"severity":"WARNING","component":"scheduler","message":"Synthetic retry scheduled"}
